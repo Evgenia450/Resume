@@ -5,5 +5,4 @@
 Bash, Git, MySQL, PostgreSQL, Docker, Docker-compose, Java, Visual Studio Code, Lunex, Jupyter
 
 
-![My foto](pdf)
-![My foto](pdf)
+![https://github.com/Evgenia450/Resume/blob/main/pic1.jpg]
