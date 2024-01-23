@@ -1,5 +1,9 @@
-## HELLO,
-# My name Jane 
-# I love to study
+## Привет!
+# Меня зовут Евгения 
+# Я начинающий тестировщик
+## МоЙ cтек
+# Bash, Git, MySQL, PostgreSQL, Docker, Docker-compose, Java, Visual Studio Code, Lunex, Jupyter
 
-![My foto](foto.jpg)
+
+![My foto](pdf)
+![My foto](pdf)
